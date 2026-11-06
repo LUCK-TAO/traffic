@@ -1,0 +1,515 @@
+{
+    "Extracted Data": [
+        {
+            "src_ip": "223.111.177.131",
+            "dst_ip": "118.184.178.57",
+            "src_port": 9929,
+            "dst_port": 31741,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.158.188.135",
+            "dst_ip": "36.150.34.201",
+            "src_port": 29254,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "183.224.119.182",
+            "dst_ip": "36.150.34.203",
+            "src_port": 47764,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "111.26.170.153",
+            "dst_ip": "36.150.184.23",
+            "src_port": 59629,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.104.154.82",
+            "dst_ip": "223.109.71.77",
+            "src_port": 35685,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.158.188.135",
+            "dst_ip": "36.150.34.201",
+            "src_port": 29254,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.104.148.85",
+            "dst_ip": "223.109.71.77",
+            "src_port": 15908,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.159.124.26",
+            "dst_ip": "36.150.34.204",
+            "src_port": 21722,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "111.48.130.71",
+            "dst_ip": "36.150.184.32",
+            "src_port": 63876,
+            "dst_port": 19000,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "183.224.119.182",
+            "dst_ip": "36.150.34.203",
+            "src_port": 47764,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.158.188.135",
+            "dst_ip": "36.150.34.201",
+            "src_port": 29254,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.109.234.155",
+            "dst_ip": "36.150.184.61",
+            "src_port": 42063,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "157.185.158.124",
+            "dst_ip": "36.150.184.181",
+            "src_port": 63420,
+            "dst_port": 2014,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.159.124.26",
+            "dst_ip": "36.150.34.204",
+            "src_port": 21722,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.158.188.135",
+            "dst_ip": "36.150.34.201",
+            "src_port": 29254,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.104.153.100",
+            "dst_ip": "223.109.71.77",
+            "src_port": 38099,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.159.124.26",
+            "dst_ip": "36.150.34.204",
+            "src_port": 21722,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "121.18.168.73",
+            "dst_ip": "218.98.14.82",
+            "src_port": 49338,
+            "dst_port": 19000,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "183.224.119.182",
+            "dst_ip": "36.150.34.203",
+            "src_port": 47764,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "222.186.149.190",
+            "dst_ip": "218.98.14.14",
+            "src_port": 34272,
+            "dst_port": 2014,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.111.177.131",
+            "dst_ip": "118.184.178.57",
+            "src_port": 9929,
+            "dst_port": 31741,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.109.234.155",
+            "dst_ip": "36.150.184.61",
+            "src_port": 42063,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.90.40.218",
+            "dst_ip": "218.98.46.245",
+            "src_port": 58438,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.21.239.202",
+            "dst_ip": "223.109.71.77",
+            "src_port": 2897,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "111.7.66.242",
+            "dst_ip": "223.109.77.79",
+            "src_port": 47462,
+            "dst_port": 9926,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.193.215.238",
+            "dst_ip": "218.98.14.84",
+            "src_port": 56410,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "120.242.191.219",
+            "dst_ip": "118.184.169.48",
+            "src_port": 2239,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.193.215.238",
+            "dst_ip": "218.98.14.84",
+            "src_port": 56410,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "183.224.119.182",
+            "dst_ip": "36.150.34.203",
+            "src_port": 47764,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.248.112.186",
+            "dst_ip": "118.184.169.48",
+            "src_port": 59915,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.158.188.135",
+            "dst_ip": "36.150.34.201",
+            "src_port": 29254,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "61.162.100.59",
+            "dst_ip": "218.98.14.66",
+            "src_port": 57376,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "120.225.128.7",
+            "dst_ip": "118.184.169.48",
+            "src_port": 10464,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "178.251.228.161",
+            "dst_ip": "112.82.223.165",
+            "src_port": 28002,
+            "dst_port": 10174,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "223.109.234.155",
+            "dst_ip": "36.150.184.61",
+            "src_port": 42063,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "119.251.189.146",
+            "dst_ip": "118.184.169.48",
+            "src_port": 39502,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.159.124.26",
+            "dst_ip": "36.150.34.204",
+            "src_port": 21722,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "222.186.149.190",
+            "dst_ip": "218.98.14.14",
+            "src_port": 34272,
+            "dst_port": 2014,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.159.124.26",
+            "dst_ip": "36.150.34.204",
+            "src_port": 21722,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.159.124.26",
+            "dst_ip": "36.150.34.204",
+            "src_port": 21722,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "117.158.188.135",
+            "dst_ip": "36.150.34.201",
+            "src_port": 29254,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.44.244.146",
+            "dst_ip": "36.150.184.173",
+            "src_port": 48365,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "111.225.145.25",
+            "dst_ip": "58.216.95.86",
+            "src_port": 80,
+            "dst_port": 33982,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "111.225.145.25",
+            "dst_ip": "58.216.95.86",
+            "src_port": 80,
+            "dst_port": 33982,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "39.171.255.125",
+            "dst_ip": "223.111.178.155",
+            "src_port": 25105,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "39.171.255.125",
+            "dst_ip": "223.111.178.155",
+            "src_port": 25105,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "70.121.117.91",
+            "dst_ip": "118.184.169.32",
+            "src_port": 41220,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "123.96.94.54",
+            "dst_ip": "180.97.194.36",
+            "src_port": 26118,
+            "dst_port": 2014,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "112.5.95.121",
+            "dst_ip": "14.103.0.70",
+            "src_port": 57302,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "183.213.173.251",
+            "dst_ip": "223.109.71.77",
+            "src_port": 6910,
+            "dst_port": 443,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "61.160.239.10",
+            "dst_ip": "118.184.178.57",
+            "src_port": 42280,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "61.160.239.10",
+            "dst_ip": "118.184.178.57",
+            "src_port": 42280,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "61.160.239.10",
+            "dst_ip": "118.184.178.57",
+            "src_port": 42280,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "113.142.209.147",
+            "dst_ip": "58.216.95.109",
+            "src_port": 55430,
+            "dst_port": 9047,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "222.186.172.66",
+            "dst_ip": "58.216.66.25",
+            "src_port": 9443,
+            "dst_port": 37324,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "222.186.172.66",
+            "dst_ip": "58.216.66.25",
+            "src_port": 9443,
+            "dst_port": 37324,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "118.78.14.37",
+            "dst_ip": "118.184.169.48",
+            "src_port": 62120,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "139.196.231.155",
+            "dst_ip": "58.216.95.104",
+            "src_port": 443,
+            "dst_port": 39466,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "119.165.228.41",
+            "dst_ip": "118.184.169.48",
+            "src_port": 47481,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "220.200.126.76",
+            "dst_ip": "218.98.46.173",
+            "src_port": 44965,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "220.200.126.76",
+            "dst_ip": "218.98.46.173",
+            "src_port": 44965,
+            "dst_port": 80,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "101.71.152.63",
+            "dst_ip": "218.98.46.228",
+            "src_port": 10611,
+            "dst_port": 31335,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "111.124.71.81",
+            "dst_ip": "58.216.95.91",
+            "src_port": 39222,
+            "dst_port": 19000,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "1.31.175.48",
+            "dst_ip": "59.83.196.39",
+            "src_port": 57673,
+            "dst_port": 2080,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "116.163.13.177",
+            "dst_ip": "112.82.240.208",
+            "src_port": 2014,
+            "dst_port": 53370,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "27.185.242.204",
+            "dst_ip": "58.216.29.205",
+            "src_port": 27522,
+            "dst_port": 9926,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "121.30.177.43",
+            "dst_ip": "122.192.87.36",
+            "src_port": 443,
+            "dst_port": 51829,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "116.196.136.213",
+            "dst_ip": "118.184.171.172",
+            "src_port": 23567,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "123.152.226.10",
+            "dst_ip": "118.184.169.77",
+            "src_port": 43538,
+            "dst_port": 14610,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "139.196.231.155",
+            "dst_ip": "58.216.95.107",
+            "src_port": 443,
+            "dst_port": 49358,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "14.205.46.198",
+            "dst_ip": "118.184.171.173",
+            "src_port": 26307,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "116.196.129.220",
+            "dst_ip": "218.98.14.119",
+            "src_port": 61659,
+            "dst_port": 299,
+            "class": "BENIGN"
+        },
+        {
+            "src_ip": "116.163.13.241",
+            "dst_ip": "118.184.171.166",
+            "src_port": 47874,
+            "dst_port": 2014,
+            "class": "BENIGN"
+        }
+    ]
+}

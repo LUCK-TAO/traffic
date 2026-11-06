@@ -1,0 +1,44 @@
+
+# Python 缓存和虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# 编译产物
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+*.a
+
+# 数据和训练输出
+/dataset/
+/src/Net-Mamba-data/root/Vim/dataset/
+/src/output/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pcap
+*.pcapng
+*.pt
+*.pth
+*.ckpt
+events.out.tfevents.*
+*_log
+*.log
+
+# 本地密钥配置
+.env
+.env.*
+!.env.example
+
+# 本地备份
+*.backup
+*.backup_*
